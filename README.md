@@ -2,7 +2,7 @@
 Parse xml and create csv files and upload to s3
 
 
-Userd :
+Used :
   Python > 3
   BS4, xml
   
